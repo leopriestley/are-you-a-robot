@@ -1,7 +1,40 @@
 ! version = 2.0
 
-+ hello
-- Hey, got a name?
++ [*] hello [*]
+- Hey
+- Hi
+- Hello
+- Nice to meet you!
+
++ [*] hey [*]
+- Hey
+- Hi
+- Hello
+- Nice to meet you!
+
++ [*] hi [*]
+- Hey
+- Hi
+- Hello
+- Nice to meet you!
+
++ [*] yo [*]
+- Hey
+- Hi
+- Hello
+- Nice to meet you!
+
++ [*] howdy [*]
+- Hey
+- Hi
+- Hello
+- Nice to meet you!
+
++ [*] whats up [*]
+- Hey
+- Hi
+- Hello
+- Nice to meet you!
 
 + _
 % hello what is your name
