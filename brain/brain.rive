@@ -36,6 +36,17 @@
 - Hello
 - Nice to meet you!
 
++ my name is *
+- <set name=<star>> nice to meet you, <get name>
+
++ im called *
+- <set name=<star>> hey, <get name>
+
++ you can call me *
+- <set name=<star>> Okay, <get name> it is
+
++ who am i
+- you're <get name>, aren't you?
 + _
 % hello what is your name
 - Nice to meet you <formal>!
@@ -44,11 +55,22 @@
 - Nice to meet you <star>
 - Nice meeting you <star>
 
+! var name = Penny
+
++ who are you
+- I'm <bot name> the coin, right now you're speaking to heads, each time you message I flip
+- I'm <bot name> the coin, you're talking to tails at the moment, I'll flip over randomly with each chat
+- I'm called <bot name> the coin, each time you say something I flip, I wonder which you'll speak to next. Right now im heads
+- I'm <bot name> the coin, each time you say something I flip, I wonder which you'll speak to next. Right now im tails
+
 + thank you
 - You are welcome
 - Welcome
 - No problem
 - No worries!
+- yep
+- sure thing
+- whatever
 
 + *
 - Sorry did not get what you said
