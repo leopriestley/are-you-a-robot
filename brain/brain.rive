@@ -57,13 +57,6 @@
 
 ! var name = Penny
 
-
-+ whats your name
-- I'm <bot name> the coin, right now you're speaking to heads, each time you message I flip
-- I'm <bot name> the coin, you're talking to tails at the moment, I'll flip over randomly with each chat
-- I'm called <bot name> the coin, each time you say something I flip, I wonder which you'll speak to next. Right now im heads
-- I'm <bot name> the coin, each time you say something I flip, I wonder which you'll speak to next. Right now im tails
-
 + who are you
 - I'm <bot name> the coin, right now you're speaking to heads, each time you message I flip
 - I'm <bot name> the coin, you're talking to tails at the moment, I'll flip over randomly with each chat
