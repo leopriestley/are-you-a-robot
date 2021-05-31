@@ -63,6 +63,14 @@
 - I'm called <bot name> the coin, each time you say something I flip, I wonder which you'll speak to next. Right now im heads
 - I'm <bot name> the coin, each time you say something I flip, I wonder which you'll speak to next. Right now im tails
 
++ how are you
+- good
+- okay
+- bored
+- amazing
+- decent
+- annoyed
+
 + thank you
 - You are welcome
 - Welcome
@@ -76,4 +84,4 @@
 - Sorry did not get what you said
 - I am afraid that I can not understand you
 - Sorry can you please elaborate that for me
-- I don't get it!
+- What did you say?
