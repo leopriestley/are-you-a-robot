@@ -8,7 +8,7 @@
 }
 
 body {
-  background: #f2f2f2;
+  background: #ffffff;
   background-image: url(https://att.722622.com/attachment/forum/201912/06/191438dq6qy7ywnlxqelfz.jpg.thumb.jpg);
 }
 
@@ -23,7 +23,7 @@ body {
 
 .title h1 {
   letter-spacing: 0.75px;
-  color: blueviolet;
+  color: rgb(255, 255, 255);
 }
 
 .wrapper {
@@ -32,7 +32,7 @@ body {
 
 .chat {
   background: white;
-  box-shadow: 10px 10px 0px blueviolet;
+  box-shadow: 10px 10px 0px rgb(233, 152, 60);
   overflow: scroll;
   height: 100%;
   display: flex;
@@ -75,7 +75,7 @@ body {
   margin-right: 20px;
   margin-left: auto;
   background: white;
-  border: 1px solid blueviolet;
+  border: 1px solid rgb(226, 168, 43);
   color: blueviolet;
 }
 
@@ -100,7 +100,7 @@ body {
 }
 
 input:focus {
-  border-bottom: 2px solid blueviolet;
+  border-bottom: 2px solid rgb(223, 166, 43);
 }
 
 @media all and (min-width: 720px) {
