@@ -50,6 +50,9 @@
 - Hello
 - Nice to meet you!
 
++ knock knock
+- Who's there?
+
 + my name is *
 - <set name=<star>> nice to meet you, <get name>
 
@@ -68,6 +71,10 @@
 + my name is *
 - Nice to meet you <star>
 - Nice meeting you <star>
+
++ i am *
+- Nice to meet you <star1>!
+- Glad to meet your <star1>!
 
 ! var name = Penny
 
