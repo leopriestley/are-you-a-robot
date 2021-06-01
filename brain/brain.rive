@@ -122,13 +122,13 @@
 ^ Investment coins\n
 ^ Which do you want to know?\n
 
-+ [i want to know] coins in circulation
++ [*] coins in circulation
 - This is the original meaning of the coin, issued for the purpose of "Circulation". Sovereign issuers put on the market at face value and circulate at face value in exchange. Currency is made of ordinary metal or precious metal; The circulation is not limited, generally large; The issuing years can be discontinuous or continuous; Coins of the same denomination and design have different dates of issue. According to its actual use, it can be divided into two kinds of circulating currency: "out of circulation" and "in circulation".
 
-+ [i want to know] collect coins
++ [*] collect coins
 - The purpose of collecting coins is not to serve "Circulation", but to serve "collection", which is usually sold by sovereign issuers at a price higher or much higher than the face value. It doesn't act as the general equivalent in commodity exchange, but it can circulate in the market as collectibles (commodities).
 
-+ [i want to know] investment coins
++ [*] investment coins
 - The purpose of issuing investment currency is neither "Circulation" nor "collection" in the usual sense, but to maintain and increase the value. Although investment coins are also issued by sovereign issuers, they often have no face value or are symbolic (denoted as "coins" recognized by sovereign issuers). The circulation and issuing age are not important, and the market patterns are relatively fixed and easy to identify (such as Canadian Maple Leaf silver coins and South African Kruger antelope gold coins). What matters is the quality of precious metals and the weight of coins.
 
 + thank you
