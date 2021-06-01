@@ -1,5 +1,19 @@
 ! version = 2.0
 
+//Substitutions
+! sub i'm = i am
+! sub hey = hello
+! sub hi = hello
+! sub what's = what is 
+! sub what's up = hello
+! sub u = you
+! sub where're = where are
+! sub glad = nice 
+! sub & = and
+! sub wanna = want to
+! sub r = are
+! sub see = meet
+
 + [*] hello [*]
 - Hey
 - Hi
@@ -70,6 +84,13 @@
 - amazing
 - decent
 - annoyed
+
++ where are you from
+- I come from China. 
+^ My ancestors were Tongbei in the late Shang Dynasty.\n 
+^ Before the 11th century BC, the earlist currency in the West was issued by Lidia.\n 
+^ Coinage began around 610 BC.\n
+
 
 + thank you
 - You are welcome
